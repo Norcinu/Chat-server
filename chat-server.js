@@ -9,7 +9,7 @@ net.createServer(function(socket) {
 });
 
 /* Mongo stuff!! */
-var mongo = require('mongodb');
+/*var mongo = require('mongodb');
 var Server = mongo.Server;
 var Db = mongo.Db;
 
@@ -28,4 +28,4 @@ db.open(function(err, db) {
             });
         });
     });
-});
+});*/
